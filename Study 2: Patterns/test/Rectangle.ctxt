@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment1.params=width\ height
+comment1.target=Rectangle(double,\ double)
+comment2.params=
+comment2.target=double\ getWidth()
+comment3.params=
+comment3.target=double\ getHeight()
+numComments=4
